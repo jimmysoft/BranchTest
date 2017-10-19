@@ -9,6 +9,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     int jimmy = 1;
 
+    int gitTest = 1;
+
 }
 
 MainWindow::~MainWindow()
